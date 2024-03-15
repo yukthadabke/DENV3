@@ -1,0 +1,52 @@
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+4R05_1|Chains,0.13,0,0,0.13,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+8BCR_1|Chains,0.18,0,0,0.18,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+3C5X_1|Chain,0.42,0,0,0.42,Allergen
+3C5X_2|Chain,0.31,0,0,0.31,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+3C6R_1|Chains,0.44,0,0,0.44,Allergen
+3C6R_2|Chains,0.25,0,0,0.25,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+3IYA_1|Chains,0.44,0,0,0.44,Allergen
+3IYA_2|Chains,0.25,0,0,0.25,Non-AllergenSubject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+4B03_2|Chains,0.28,0,0,0.28,Non-Allergen
+4B03_1|Chains,0.28,0,0,0.28,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+1TGE_1|Chains,0.46,0,0,0.46,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+4FFZ_1|Chains,0.56,0,0.0,0.56,Allergen
+4FFZ_2|Chains,0.36,0,0.0,0.36,Allergen
+4FFZ_3|Chains,0.41,0,0.5,0.91,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+1P58_1|Chains,0.36,0,0,0.36,Allergen
+1P58_2|Chains,0.12,0,0,0.12,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+3J8D_1|Chains,0.73,0,0.0,0.73,Allergen
+3J8D_2|Chains,0.38,0,0.5,0.88,Allergen
+3J8D_3|Chains,0.45,0,0.0,0.45,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+2VBC_1|Chain,0.1,0,0,0.1,Non-Allergen
+2VBC_2|Chain,0.39,0,0,0.39,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+2BMF_1|Chains,0.07,0,-0.5,-0.43,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+1P58_1|Chains,0.36,0,0,0.36,Allergen
+1P58_2|Chains,0.12,0,0,0.12,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+3J42_1|Chains,0.41,0,0.0,0.41,Allergen
+3J42_2|Chains,0.29,0,0.0,0.29,Non-Allergen
+3J42_3|Chains,0.46,0,-0.5,-0.03,Non-Allergen
+3J42_4|Chains,0.21,0,0.5,0.71,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+1TG8_1|Chain,0.46,0,0,0.46,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+1R6R_1|Chains,0.11,0,0,0.11,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+2P40_1|Chain,0.2,0,0,0.2,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+2FOM_1|Chain,0.26,0,0,0.26,Non-Allergen
+2FOM_2|Chain,0.6,0,0,0.6,Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+5EHI_1|Chains,0.18,0,0,0.18,Non-Allergen
