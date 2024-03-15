@@ -10,7 +10,8 @@ Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
 3C6R_2|Chains,0.25,0,0,0.25,Non-Allergen
 Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
 3IYA_1|Chains,0.44,0,0,0.44,Allergen
-3IYA_2|Chains,0.25,0,0,0.25,Non-AllergenSubject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
+3IYA_2|Chains,0.25,0,0,0.25,Non-Allergen
+Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
 4B03_2|Chains,0.28,0,0,0.28,Non-Allergen
 4B03_1|Chains,0.28,0,0,0.28,Non-Allergen
 Subject,ML Score,MERCI Score,BLAST Score,Hybrid Score,Prediction
